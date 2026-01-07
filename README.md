@@ -1,2 +1,1 @@
-# mika
-Just a begginer.
+
